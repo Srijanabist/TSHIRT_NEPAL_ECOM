@@ -63,3 +63,5 @@ function checkout() {
 
 // Load products when page loads
 window.onload = loadProducts;
+//shreya bist
+//hhsdahdka
